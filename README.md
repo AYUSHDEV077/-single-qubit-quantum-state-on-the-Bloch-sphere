@@ -18,7 +18,7 @@ An interactive, web-based quantum computing simulator built with Python, Streaml
 *   **Plotly:** Interactive 3D rendering and histogram generation.
 *   **NumPy & Pandas:** Mathematical operations and data formatting.
 
-##  Installation & Setup
+## Installation & Setup
 
 To run this simulator on your local machine, ensure you have Python installed, then follow these steps:
 
